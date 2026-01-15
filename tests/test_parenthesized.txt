@@ -1,0 +1,11 @@
+TASKS 2 5
+POLY
+f = (x + 1)(x - 1);
+g = x(x + 2);
+EXECUTE
+INPUT a;
+b = f(a);
+c = g(a);
+OUTPUT b;
+OUTPUT c;
+INPUTS 5

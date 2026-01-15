@@ -1,0 +1,9 @@
+TASKS 2
+POLY
+f = 2x + 3;
+g(a, b) = a + b;
+EXECUTE
+INPUT x;
+y = f(x);
+OUTPUT y;
+INPUTS 5

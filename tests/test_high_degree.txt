@@ -1,0 +1,8 @@
+TASKS 5
+POLY
+high = x^10 + x^5 + x^2 + x + 1;
+product(a, b, c) = a^3 b^4 c^5;
+EXECUTE
+INPUT x;
+OUTPUT x;
+INPUTS 1

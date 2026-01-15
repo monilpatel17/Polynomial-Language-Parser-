@@ -1,0 +1,10 @@
+TASKS 4
+POLY
+f = x;
+EXECUTE
+INPUT a;
+b = f(a);
+c = f(a);
+d = f(a);
+OUTPUT a;
+INPUTS 5

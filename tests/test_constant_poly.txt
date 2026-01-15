@@ -1,0 +1,8 @@
+TASKS 2 5
+POLY
+constant = 42;
+EXECUTE
+INPUT x;
+y = constant(x);
+OUTPUT y;
+INPUTS 100

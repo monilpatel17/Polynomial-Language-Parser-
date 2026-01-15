@@ -1,0 +1,6 @@
+TASKS 3
+POLY
+f = x;
+EXECUTE
+OUTPUT z;
+INPUTS 1

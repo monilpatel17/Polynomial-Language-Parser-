@@ -1,0 +1,10 @@
+TASKS 2
+POLY
+add(a, b) = a + b;
+mult(x, y) = x y;
+EXECUTE
+a = add(3, 5);
+b = mult(4, 6);
+OUTPUT a;
+OUTPUT b;
+INPUTS 1

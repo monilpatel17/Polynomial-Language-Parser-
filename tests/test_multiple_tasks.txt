@@ -1,0 +1,11 @@
+TASKS 2 3 4 5
+POLY
+f = 3x^2 + 2x + 1;
+g(a, b) = a + b;
+EXECUTE
+INPUT x;
+INPUT y;
+unused = f(x);
+z = g(x, y);
+OUTPUT z;
+INPUTS 2 3

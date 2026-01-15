@@ -1,0 +1,8 @@
+TASKS 1
+POLY
+f = x;
+EXECUTE
+INPUT a;
+y = h(a);
+OUTPUT y;
+INPUTS 1

@@ -1,0 +1,10 @@
+TASKS 2 5
+POLY
+complex(x, y, z) = 3x^2 y z + 2x y^2 - x + y - z + 10;
+EXECUTE
+INPUT a;
+INPUT b;
+INPUT c;
+result = complex(a, b, c);
+OUTPUT result;
+INPUTS 2 3 1

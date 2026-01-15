@@ -1,0 +1,8 @@
+TASKS 1
+POLY
+f(x, y) = x + y;
+EXECUTE
+INPUT a;
+y = f(a);
+OUTPUT y;
+INPUTS 1

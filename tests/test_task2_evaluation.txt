@@ -1,0 +1,11 @@
+TASKS 2
+POLY
+square = x^2;
+add(a, b) = a + b;
+EXECUTE
+INPUT x;
+INPUT y;
+z = square(x);
+w = add(z, y);
+OUTPUT w;
+INPUTS 3 4

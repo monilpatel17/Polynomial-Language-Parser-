@@ -1,0 +1,10 @@
+TASKS 5
+POLY
+f = x^3 + 2x^2 + x + 1;
+g(a, b) = a^2 b^3;
+h = 5;
+linear = 2x + 1;
+EXECUTE
+INPUT x;
+OUTPUT x;
+INPUTS 1

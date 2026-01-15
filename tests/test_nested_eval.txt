@@ -1,0 +1,9 @@
+TASKS 2
+POLY
+f = 2x + 1;
+g = x^2;
+EXECUTE
+INPUT a;
+b = g(f(a));
+OUTPUT b;
+INPUTS 3
