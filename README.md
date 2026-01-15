@@ -249,10 +249,6 @@ argument     → NUM | ID | poly_eval
 - Useless assignment detection uses backward liveness analysis
 - Memory is simulated with a fixed-size array (2000 locations)
 
-## License
-
-This is an educational project. Original template by Rida Bazzi (2017-2019).
-
 ## Contributing
 
 When adding new tests:
